@@ -40,6 +40,7 @@ button:first-of-type {
 }
 
 button::hover {
-    cursor: pointer;   
+    cursor: pointer;
+     
 }
 
